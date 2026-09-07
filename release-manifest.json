@@ -1,0 +1,166 @@
+{
+  "version": "V5",
+  "siteType": "static-github-pages",
+  "sourceSha256": {
+    "工作文件/viewer.js": "1d1bf0cb63d4acbea3cca9dc10d89cf3d5bebdda097f95c12fc16dd0c46b2dfc",
+    "工作文件/viewer_materials.js": "28fb4bcc35251eb63e59af33511f0f554b912e6f98dd4f5ab8c7ee32d24c1382",
+    "工作文件/viewer_terrain.js": "c750e44662bc14f251a36f43a5e9471055ce47f63fabf6732873bc81273b4162",
+    "工作文件/three.module.js": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb",
+    "工作文件/OrbitControls.js": "80efaadea4f8a636a65fb0bd08bfef62f3d93a0bb94e2e7500f23176c5c07f4e",
+    "效果素材/原始航拍_8K.jpg": "39ba2c3d035bb52209f972933ec4f08a28de10b899012e814cdca0b820caab46",
+    "效果素材/标线清理局部贴图_V4.png": "f7ea8575dc75b90fd12ded5001fe2cf3362573f6728d8d74ac9d7854ecd3fb77",
+    "效果素材/渲染底图_V2.png": "d3e3f3f31aeebf957ff8dd3da323b98753a520d1975cdefae48dcc0e2ce91c73",
+    "工作文件/scene.json": "422b4cb00a109a9785138499dad664d5dc6ee3da0509f2081cfaf3fe055d9c95",
+    "index.html": "d9e6909b2f107ab34839a152394ac9863436036d06694c61eeeaa80a7f59388b"
+  },
+  "scene": {
+    "sha256": "422b4cb00a109a9785138499dad664d5dc6ee3da0509f2081cfaf3fe055d9c95",
+    "instances": 51261,
+    "geometries": 519,
+    "counts": {
+      "battery": 176,
+      "pcs": 44,
+      "tower": 7,
+      "lineSpans": 8,
+      "terminalPortals": 2,
+      "trainCars": 8,
+      "trees": 835,
+      "buildings": 263,
+      "ponds": 54,
+      "parts": 51261
+    },
+    "unchanged": true
+  },
+  "publicationChecks": {
+    "relativeAssetPaths": true,
+    "captureApiRemoved": true,
+    "textureBytesUnchanged": true,
+    "eightViewsPreserved": true,
+    "gzipLossless": true,
+    "losslessTransportParts": true,
+    "maximumPartBytes": 8388608,
+    "maximumPartConcurrency": 3
+  },
+  "filesExcludingThisManifest": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2454,
+      "sha256": "e1ce923bee960c1d713df409f4e6755754486bd6d64084c3920b058440423afe"
+    },
+    {
+      "path": "THIRD_PARTY_LICENSES.txt",
+      "bytes": 1214,
+      "sha256": "a0f5f5905c4ff508cf95812045a36957a8053affae1f975c7caa50942ba46b40"
+    },
+    {
+      "path": "assets/aerial-8k.39ba2c3d035b.jpg.part01.bin",
+      "bytes": 8388608,
+      "sha256": "f53dfd75011d0ffd1d6f89e05e30f5fb14bb84caf7ed9a64a8425087005b31f2"
+    },
+    {
+      "path": "assets/aerial-8k.39ba2c3d035b.jpg.part02.bin",
+      "bytes": 8388608,
+      "sha256": "584a87655d199bf8bdafe485033d04a8cc307a5243967aef31a6a5c9c045a1db"
+    },
+    {
+      "path": "assets/aerial-8k.39ba2c3d035b.jpg.part03.bin",
+      "bytes": 8388608,
+      "sha256": "e5691909ad6db1b0a20e2ac567ed91cdc5166c98dc641a115b9443e57621fc47"
+    },
+    {
+      "path": "assets/aerial-8k.39ba2c3d035b.jpg.part04.bin",
+      "bytes": 8388608,
+      "sha256": "18f96bd9ff254c767cc5341fb73ae5f94f464ecc3f2210d354491f338cb84c44"
+    },
+    {
+      "path": "assets/aerial-8k.39ba2c3d035b.jpg.part05.bin",
+      "bytes": 8388608,
+      "sha256": "6e5c2173eaa04fc7f8b2d9d4de54aceb1cc4b321dd40a21841aa4a4cf710ed70"
+    },
+    {
+      "path": "assets/aerial-8k.39ba2c3d035b.jpg.part06.bin",
+      "bytes": 7284984,
+      "sha256": "e5a64174950e59295bc16b4f5917207dbb5441bfd9e499a02b2548c0de9ca378"
+    },
+    {
+      "path": "assets/ground-clean.f7ea8575dc75.png",
+      "bytes": 3524954,
+      "sha256": "f7ea8575dc75b90fd12ded5001fe2cf3362573f6728d8d74ac9d7854ecd3fb77"
+    },
+    {
+      "path": "assets/scene.422b4cb00a10.json.gz",
+      "bytes": 5984148,
+      "sha256": "1c2e4a32cecb47f91308a8181717a3158852d2b12aed178919c09913eeac8b7d"
+    },
+    {
+      "path": "assets/scene.422b4cb00a10.json.part01.bin",
+      "bytes": 8388608,
+      "sha256": "93d8c55c4e238ba660f8011e0847627af499aba60e0f29168d435275d604b48e"
+    },
+    {
+      "path": "assets/scene.422b4cb00a10.json.part02.bin",
+      "bytes": 8388608,
+      "sha256": "31ba14cec6e4b5ff227a40d53b3e9f16db584c59efa8669bd214cecb587988bf"
+    },
+    {
+      "path": "assets/scene.422b4cb00a10.json.part03.bin",
+      "bytes": 8388608,
+      "sha256": "32a26360065de73aba9a522d8f5887912721b3347bd39f233d08adb77760bfc2"
+    },
+    {
+      "path": "assets/scene.422b4cb00a10.json.part04.bin",
+      "bytes": 6580454,
+      "sha256": "0fb945bf3e3a9c52775b39f2be01645f0b270783cb5e6904cbaaeaad4d1d73a7"
+    },
+    {
+      "path": "assets/start.f5a20955d323.js",
+      "bytes": 4268,
+      "sha256": "f5a20955d32308e7a2f01ef815097abcb4b4613396cfb2daf6b60cbe1de36262"
+    },
+    {
+      "path": "assets/summer-color.d3e3f3f31aee.png",
+      "bytes": 3547345,
+      "sha256": "d3e3f3f31aeebf957ff8dd3da323b98753a520d1975cdefae48dcc0e2ce91c73"
+    },
+    {
+      "path": "assets/viewer.4db7d17ea6d6.js",
+      "bytes": 544409,
+      "sha256": "4db7d17ea6d6c4208715e75212ed9981d787b6d2fe46c67ffbbdf20265ca2772"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9731,
+      "sha256": "92e3958915de51aee6704246b8849d4f95f83e4af4cd4f0161efacd34f41bd11"
+    }
+  ],
+  "bytesExcludingThisManifest": 94592825,
+  "assembledAssets": {
+    "aerial": {
+      "parts": [
+        "assets/aerial-8k.39ba2c3d035b.jpg.part01.bin",
+        "assets/aerial-8k.39ba2c3d035b.jpg.part02.bin",
+        "assets/aerial-8k.39ba2c3d035b.jpg.part03.bin",
+        "assets/aerial-8k.39ba2c3d035b.jpg.part04.bin",
+        "assets/aerial-8k.39ba2c3d035b.jpg.part05.bin",
+        "assets/aerial-8k.39ba2c3d035b.jpg.part06.bin"
+      ],
+      "bytes": 49228024,
+      "sha256": "39ba2c3d035bb52209f972933ec4f08a28de10b899012e814cdca0b820caab46"
+    },
+    "sceneFallback": {
+      "parts": [
+        "assets/scene.422b4cb00a10.json.part01.bin",
+        "assets/scene.422b4cb00a10.json.part02.bin",
+        "assets/scene.422b4cb00a10.json.part03.bin",
+        "assets/scene.422b4cb00a10.json.part04.bin"
+      ],
+      "bytes": 31746278,
+      "sha256": "422b4cb00a109a9785138499dad664d5dc6ee3da0509f2081cfaf3fe055d9c95"
+    }
+  }
+}
