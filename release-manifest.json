@@ -1,5 +1,5 @@
 {
-  "version": "V5",
+  "version": "V5.1",
   "siteType": "static-github-pages",
   "sourceSha256": {
     "工作文件/viewer.js": "1d1bf0cb63d4acbea3cca9dc10d89cf3d5bebdda097f95c12fc16dd0c46b2dfc",
@@ -39,7 +39,8 @@
     "gzipLossless": true,
     "losslessTransportParts": true,
     "maximumPartBytes": 8388608,
-    "maximumPartConcurrency": 3
+    "maximumPartConcurrency": 3,
+    "nineViewsAvailable": true
   },
   "filesExcludingThisManifest": [
     {
@@ -49,8 +50,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2454,
-      "sha256": "e1ce923bee960c1d713df409f4e6755754486bd6d64084c3920b058440423afe"
+      "bytes": 3335,
+      "sha256": "c5b5d3fa2033b69ecdb222d3bd6d3905239bf21aaac1ea185153b1b3dc3e32c8"
     },
     {
       "path": "THIRD_PARTY_LICENSES.txt",
@@ -118,9 +119,9 @@
       "sha256": "0fb945bf3e3a9c52775b39f2be01645f0b270783cb5e6904cbaaeaad4d1d73a7"
     },
     {
-      "path": "assets/start.f5a20955d323.js",
+      "path": "assets/start.f2ca1a98956d.js",
       "bytes": 4268,
-      "sha256": "f5a20955d32308e7a2f01ef815097abcb4b4613396cfb2daf6b60cbe1de36262"
+      "sha256": "f2ca1a98956dbaa3da3cfa0e2a99409c4e658a84e940bd25c0dacb3fb49f4f0d"
     },
     {
       "path": "assets/summer-color.d3e3f3f31aee.png",
@@ -128,17 +129,17 @@
       "sha256": "d3e3f3f31aeebf957ff8dd3da323b98753a520d1975cdefae48dcc0e2ce91c73"
     },
     {
-      "path": "assets/viewer.4db7d17ea6d6.js",
-      "bytes": 544409,
-      "sha256": "4db7d17ea6d6c4208715e75212ed9981d787b6d2fe46c67ffbbdf20265ca2772"
+      "path": "assets/viewer.0b8687b57a05.js",
+      "bytes": 566830,
+      "sha256": "0b8687b57a05a362aa8b3dbb9a53444728452c0efeb8e041d96e1e8131bddd92"
     },
     {
       "path": "index.html",
-      "bytes": 9731,
-      "sha256": "92e3958915de51aee6704246b8849d4f95f83e4af4cd4f0161efacd34f41bd11"
+      "bytes": 14264,
+      "sha256": "feb5f1a3df5b23dfba68554a0fa7175ef23e23f2cfd40befec9a2de545b235b1"
     }
   ],
-  "bytesExcludingThisManifest": 94592825,
+  "bytesExcludingThisManifest": 94620660,
   "assembledAssets": {
     "aerial": {
       "parts": [
@@ -162,5 +163,17 @@
       "bytes": 31746278,
       "sha256": "422b4cb00a109a9785138499dad664d5dc6ee3da0509f2081cfaf3fe055d9c95"
     }
+  },
+  "runtimePresentation": {
+    "revision": "external-line-aluminium-zinc",
+    "opgwFibersAssumed": 8,
+    "opgwSpans": 8,
+    "galvanizedAngleTowers": 7,
+    "defaultLineEmphasis": true,
+    "originalPhaseAlignmentUnchanged": true,
+    "originalStationLayoutUnchanged": true,
+    "newPreset": "line",
+    "defaultPreset": "overview",
+    "materialReference": "https://www.zttgroup.com/product/OPGW.html"
   }
 }
